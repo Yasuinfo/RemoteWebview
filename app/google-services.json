@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "856519366256",
+    "firebase_url": "https://webview-6e8c6.firebaseio.com",
+    "project_id": "webview-6e8c6",
+    "storage_bucket": "webview-6e8c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856519366256:android:75e61d4580e3475d2786b5",
+        "android_client_info": {
+          "package_name": "com.yasuapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856519366256-f29ffbf9l1efnpnhvd9tn0hmhtjtg32n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV6LAfNCDJ_C4h6luLovHgXYWG5e4slOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856519366256-f29ffbf9l1efnpnhvd9tn0hmhtjtg32n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
